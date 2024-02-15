@@ -1,0 +1,6 @@
+# python virtual environment
+/.venv
+
+# web scraper cache and configuration directories and files
+/web_scrapers/cache
+/web_scrapers/config
