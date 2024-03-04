@@ -1,10 +1,4 @@
 import argparse
-import cyberdrop
-
-"""
-- create a cool CLI
-- make this installable for other users if they want to use these scripts
-"""
 
 if __name__ == "__main__":
     # parse arguments passed via the command line by the user
